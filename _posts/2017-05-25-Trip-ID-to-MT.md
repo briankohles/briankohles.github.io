@@ -1,9 +1,6 @@
 ---
 layout: post
-title: Trip: Idaho and Montana 2017
-date: 2017-05-25 16:16:01 -0500
-categories: vacation adventure roadtrip
-tags: 2017 adventure vacation
+title: Trip - Idaho and Montana 2017
 ---
 
 # Vacation 2017 - Idaho & Montana
