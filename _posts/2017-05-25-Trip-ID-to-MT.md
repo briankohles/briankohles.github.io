@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Vacation 2017 - Idaho & Montana - Day 1
+title: Trip 2017 - ID & MT - Day 1
 date: 2017-05-25
 author: Brian Kohles
-category: trip-2017-05
+categories: trip-2017-05
 ---
 
 This is the day we begin our trip to Idaho & Montana.
