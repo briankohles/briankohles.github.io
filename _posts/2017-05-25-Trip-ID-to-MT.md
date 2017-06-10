@@ -3,7 +3,7 @@ layout: post
 title: Trip 2017 - ID & MT - Day 1
 date: 2017-05-25
 author: Brian Kohles
-categories: trip-2017-05
+tags: trip-2017-05 trip
 ---
 
 This is the day we begin our trip to Idaho & Montana.
