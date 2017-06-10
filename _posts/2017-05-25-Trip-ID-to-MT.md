@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trip - Idaho and Montana 2017
+date: 2017-05-28
 ---
 
 # Vacation 2017 - Idaho & Montana
