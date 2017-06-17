@@ -5,7 +5,7 @@ date: 2014-03-17
 author: Brian Kohles
 tags: machine video
 categories: video
-youtubeid: v=5q-BH-tvxEg
+youtubeid: 5q-BH-tvxEg
 ---
 This motor turns at 200 revolutions per minute, even though it is attached to a stationary concrete block.
 

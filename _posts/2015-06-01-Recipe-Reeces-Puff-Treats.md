@@ -9,14 +9,14 @@ categories: recipe
 
 These are similar to Rice Crispy Treats but with a peanut butter & chocolate flavor
 
-####Ingredients:
+### Ingredients:
 1. 20 Oz Mini Marshmallows
 1. 10 C Reece's Puffs Cereal
 1. 1 C Reece's Peanut Butter Chips
 1. 1 C Milk Chocolate Chips
 1. 6 T Butter
 
-####Steps:
+### Steps:
 1. In a large stock pot over medium heat
 1. Melt butter
 1. Add 2/3 marshmallows, stirring occasionally until gooey
