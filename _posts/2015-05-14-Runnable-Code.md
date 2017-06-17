@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using GIT to Version Control Locally
+title: Runnable
 date: 2015-05-21
 author: Brian Kohles
 tags: code git
