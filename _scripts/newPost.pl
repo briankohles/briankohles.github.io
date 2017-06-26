@@ -6,8 +6,16 @@ use strict;
 
 my $date = shift;
 my $title = shift;
+
+# validate input
+if ($date eq '' || $title eq '') {
+	print "Usage: ./newPost.pl <date (YYYY-MM-DD)> <title>\n";
+	exit;
+}
 my $slug = $date.'-'.$title;
-$slug =~ s/\ /-/g;
+$slug =~ s/[\ \,]/_/g;
+$slug =~ s/_+/_/g;
+
 $slug = lc($slug);
 #print "SLUG:$slug;\n";
 
