@@ -38,6 +38,11 @@ Header 2
     2. Subitem 1
 ```
 
+```
+- [x] This is a complete item
+- [ ] This is an incomplete item
+```
+
 ## Links
 `[I'm an inline-style link with title](https://www.google.com "Google's Homepage")`
 
