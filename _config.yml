@@ -32,7 +32,7 @@ gems:
 
 # Pages
 pages_list:       
-  About: '/about'
+#  About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
   Find Me: '/findMe'
