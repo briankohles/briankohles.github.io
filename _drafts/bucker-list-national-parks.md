@@ -1,19 +1,19 @@
 ---
-layout: page
-title: Bucket List - National Parks
+layout: bucketlist
+title: National Parks
 author: Brian Kohles
 tags: bucketlist nationalparks
 categories: bucketlist
 ---
 - [ ] Acadia National Park	Maine
 - [ ] National Park of American Samoa	American Samoa
-- [ ] Arches National Park	Utah
+- [x] Arches National Park	Utah
 - [ ] Badlands National Park	South Dakota
 - [ ] Big Bend National Park	Texas
 - [ ] Biscayne National Park	Florida
 - [ ] Black Canyon of the Gunnison National Park	Colorado
 - [ ] Bryce Canyon National Park	Utah
-- [ ] Canyonlands National Park	Utah
+- [x] Canyonlands National Park	Utah
 - [ ] Capitol Reef National Park	Utah
 - [ ] Carlsbad Caverns National Park	New Mexico
 - [ ] Channel Islands National Park	California
@@ -25,7 +25,7 @@ categories: bucketlist
 - [ ] Dry Tortugas National Park	Florida
 - [ ] Everglades National Park	Florida
 - [ ] Gates of the Arctic National Park	Alaska
-- [ ] Glacier National Park (part of Waterton-Glacier International Peace Park)	Montana
+- [x] Glacier National Park (part of Waterton-Glacier International Peace Park)	Montana
 - [ ] Glacier Bay National Park	Alaska
 - [ ] Grand Canyon National Park	Arizona
 - [ ] Grand Teton National Park	Wyoming

@@ -1,3 +1,13 @@
+---
+title: Setting Up Jekyll For Blogging
+date: 2017-07-01
+author: Brian Kohles
+tags: blog Jekyll 
+categories: trips
+layout: post
+youtubeid: CCDIuZUfETc
+---
+
 # Setting up Jekyll for Blogging
 Jekyll Docs
 https://jekyllrb.com/docs/home/

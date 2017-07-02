@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: wiki
 title: Markdown Cheatsheet
 date: 2017-06-11
 author: Brian Kohles
 tags: markdown cheatsheet
 categories: markdown
 ---
-
-# Markdown Cheatsheet
 
 ## Headers
 

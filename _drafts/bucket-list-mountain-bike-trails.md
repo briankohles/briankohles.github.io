@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Bucket List - Mountain Bike Trails &
-Parks
+layout: bucketlist
+title: Mountain Bike Trails & Parks
 author: Brian Kohles
-tags: bucketlist
+tags: bucketlist mountainbike trail
 categories: bucketlist
 ---
 * Illinois
