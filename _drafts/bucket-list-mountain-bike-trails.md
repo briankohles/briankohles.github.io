@@ -15,3 +15,5 @@ categories: bucketlist
   - [ ] Griffin Bike Park - Terra Haute IN
 * Wisconsin
   - [x] CamRock - Cambridge, WI
+* Michigan
+  - [ ] Copper Harbor - Michigan, UP
