@@ -10,6 +10,7 @@ layout: bucketlist
 - [x] Miller Park Zoo - Bloomington, IL
 - [x] Henry Doyle - Springfield, IL
 - [x] Henry Villas - Milwaukee, WI
+- [x] Omaha Zoo - Omaha, NE
 
 
 Look through List in photos
