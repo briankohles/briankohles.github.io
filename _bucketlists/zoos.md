@@ -15,6 +15,8 @@ categories: bucketlist
 - [x] Henry Doyle - Springfield, IL
 - [x] Henry Villas - Milwaukee, WI
 - [x] Omaha Zoo - Omaha, NE
+- [x] Lincoln Park Zoo - Chicago, IL
+- [x] Brookfield Zoo - Chicago, IL
 
 
 Look through List in photos
