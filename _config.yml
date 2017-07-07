@@ -35,7 +35,7 @@ pages_list:
   Archive: '/archive'
   Feed: '/atom.xml'
   Find Me: '/findMe'
-#  Bucket Lists: '/bucketlists'
+  Bucket Lists: '/bucketlists'
 
 # Collections
 #collections:
