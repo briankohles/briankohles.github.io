@@ -1,5 +1,6 @@
 ---
-layout: bucketlist
+collection: bucketlists
+layout: page
 title: Mountain Bike Trails & Parks
 author: Brian Kohles
 tags: bucketlist mountainbike trail

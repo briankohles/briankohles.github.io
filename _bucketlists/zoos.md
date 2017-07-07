@@ -1,6 +1,10 @@
 ---
+collection: bucketlists
+layout: page
 title: Zoos
-layout: bucketlist
+author: Brian Kohles
+tags: bucketlist zoos
+categories: bucketlist
 ---
 
 - [ ] Memphis Zoo - Memphis, TN

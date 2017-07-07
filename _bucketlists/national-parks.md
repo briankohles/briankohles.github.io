@@ -1,7 +1,8 @@
 ---
-layout: bucketlist
-title: National Parks
+collection: bucketlists
+layout: page
 author: Brian Kohles
+title: National Parks
 tags: bucketlist nationalparks
 categories: bucketlist
 ---
