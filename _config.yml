@@ -35,12 +35,12 @@ pages_list:
   Archive: '/archive'
   Feed: '/atom.xml'
   Find Me: '/findMe'
-  Bucket Lists: '/bucketlists'
+#  Bucket Lists: '/bucketlists'
 
 # Collections
-collections:
-  bucketlists
+#collections:
+#  bucketlists
 
-bucketlists:
-    output: true
-    permalink: /:collection/:name
+#bucketlists:
+#    output: true
+#    permalink: /:collection/:name
