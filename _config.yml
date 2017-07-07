@@ -38,8 +38,8 @@ pages_list:
   Bucket Lists: '/bucketlists'
 
 # Collections
-#collections:
-#  bucketlists
+collections:
+  - bucketlists
 
 #bucketlists:
 #    output: true
