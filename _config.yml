@@ -39,8 +39,6 @@ pages_list:
 
 # Collections
 collections:
-  - bucketlists
-
-#bucketlists:
-#    output: true
-#    permalink: /:collection/:name
+  bucketlists:
+    output: true
+    permalink: /:collection/:name
