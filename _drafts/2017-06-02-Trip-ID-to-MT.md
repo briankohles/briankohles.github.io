@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Trip 2017 - ID & MT - Day 1
+title: Trip 2017 - ID & MT
 date: 2017-05-25
 author: Brian Kohles
 tags: trip-2017-05 trip vacation adventure nationalPark
 categories: trips
 ---
-
-# Trip: ID & MT 2017
 
 This was a trip planned around attending a friends wedding.
 
@@ -59,7 +57,7 @@ On the way we stopped at Meriwether Cider Co in Boise, CO
 ## Day 4 - Sunday
 ***Stay:*** Tamarack Resort, ID
 
-Went for a jog/welk with Sherri in the morning along the golf course. Didn't look like it's actually open for any golfing, but it was a nice view, and a good place for a run.
+Went for a jog/walk with Sherri in the morning along the golf course. Didn't look like it's actually open for any golfing, but it was a nice view, and a good place for a run.
 
 Afterwards we went for a bike ride around some of the golf course.
 
@@ -93,6 +91,8 @@ First day in Glacier
 
 We slept in, got out of the room for breakfast at 9:30, and then went for a hike.
 
+<iframe src="http://my.viewranger.com/route/widget/MTAzMzc0?locale=en&amp;m=miles" width="640" height="640" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+
 We ended up doing the Avalanche trail up to Avalanche Lake it was a good hike, I recorded the trip down in Run Keeper. It came in at 2.99 miles so just about 6 miles round trip.
 
 The lake was beautiful with a great mountain backdrop and waterfalls of snow melt pouring down the mountain.
@@ -101,7 +101,7 @@ We saw some deer on the hike, but no bear. There was talk of grizzlies at the la
 
 Later in the evening we did go out for a short drive and saw a black bear just off the road, then saw more deer later on.
 
-During our evening drive we saw a HUGE pack of ADV bikes, almost all BMW 1200s, it really made me want to get in some really long saddle time. Need to spend some time planning a trip or two. Need to look into some gear to make camping viable & try that out up @ Comlara Park. Also need to lookup what this ride was, and come to a decision about what motorcycle to get next. Or how to mod my bike into what I want.
+During our evening drive we saw a HUGE pack of ADV bikes, almost all BMW GS1200s, it really made me want to get in some really long saddle time. Need to spend some time planning a trip or two. Need to look into some gear to make camping viable & try that out up @ Comlara Park. Also need to lookup what this ride was, and come to a decision about what motorcycle to get next. Or how to mod my bike into what I want.
 
 
 ## Day 7 - Wednesday
