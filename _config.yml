@@ -39,7 +39,7 @@ pages_list:
 
 # Collections
 collections:
-  bucketlist
+  bucketlists
 
 bucketlists:
     output: true
