@@ -6,7 +6,7 @@ author: Brian Kohles
 tags: bucketlist mountainbike trail
 categories: bucketlist
 ---
-* Illinois
+###Illinois
   - [ ] Palos Heights - up by Chicago
   - [ ] Kickapoo - Champaign
   - [x] Farmdale - Pekin?
@@ -14,27 +14,33 @@ categories: bucketlist
   - [ ] Black Partridge - Metamora, IL
   - [ ] Independence Park - Washington, IL
   - [ ] Wildlife Prairie Park - Peoria, IL
-* Indiana
+### Indiana
   - [ ] Fort Harrison State Park - Indianapolis
     - http://www.in.gov/dnr/parklake/2982.htm
   - [ ] Brown County Indiana
   - [ ] Versailles State Park - Versailles, IN
   - [ ] Griffin Bike Park - Terra Haute IN
-* Wisconsin
+### Wisconsin
   - [x] CamRock - Cambridge, WI
-* Michigan
+### Michigan
   - [ ] Copper Harbor - Michigan, UP
   - [ ] Dr TK Lawless Park - Vandalia, MI
-* Georgia
+### Georgia
   - [ ] http://www.mulberrygap.com/
-* Missouri
+### Missouri
   - [ ] Castlewood State Park - St Louis, MO
   - [ ] West Tyson County - St Louis, MO
   - [ ] Rock Hollow - St Louis, MO
   - [ ] Greensfelder County Park - St Louis, MO
-* Arkansas
+### Arkansas
   - [ ] Bentonville, AR
+  - https://www.singletracks.com/blog/mtb-trails/northwest-arkansas-13-million-can-build/
     - [ ] Blowing Springs
     - [ ] Back 40
     - [ ] Slaughter Pen Trails
+    - [ ] Coler
+    
+https://www.singletracks.com/blog/mtb-trails/7-trails-along-i-70-that-will-make-your-next-road-trip-rock/
+
+
     

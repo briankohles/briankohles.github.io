@@ -17,6 +17,10 @@ categories: bucketlist
 - [x] Omaha Zoo - Omaha, NE
 - [x] Lincoln Park Zoo - Chicago, IL
 - [x] Brookfield Zoo - Chicago, IL
+- [x] Oregon Zoo - Portland, OR
+- [x] San Diego Wild Animal Park - San Diego, CA
+- [x] St. Louis Zoo - St. Louis, MO
+- [X] Peoria Zoo - Peoria, IL
 
 
 Look through List in photos
