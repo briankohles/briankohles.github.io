@@ -33,9 +33,9 @@ gems:
 # Pages
 pages_list:
   Archive: '/archive'
-  Feed: '/atom.xml'
   Find Me: '/findMe'
   Bucket Lists: '/bucketlists'
+  Feed: '/atom.xml'
 
 # Collections
 collections:
