@@ -1,5 +1,5 @@
 ---
-title: Mountain Biking - St Louis MO - Castlewood State Park
+title: Mountain Biking - St. Louis, MO - Castlewood State Park
 author: Brian Kohles
 categories: mountainBiking
 date: 2017-07-08

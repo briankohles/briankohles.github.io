@@ -34,11 +34,15 @@ gems:
 pages_list:
   Archive: '/archive'
   Find Me: '/findMe'
+  Wiki: '/wiki'
   Bucket Lists: '/bucketlists'
   Feed: '/atom.xml'
 
 # Collections
 collections:
   bucketlists:
+    output: true
+    permalink: /:collection/:name
+  wiki:
     output: true
     permalink: /:collection/:name
