@@ -6,7 +6,8 @@ author: Brian Kohles
 tags: bucketlist mountainbike trail
 categories: bucketlist
 ---
-###Illinois
+
+### Illinois
   - [ ] Palos Heights - up by Chicago
   - [ ] Kickapoo - Champaign
   - [x] Farmdale - Pekin?
