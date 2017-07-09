@@ -28,7 +28,7 @@ categories: bucketlist
 ### Georgia
   - [ ] http://www.mulberrygap.com/
 ### Missouri
-  - [ ] Castlewood State Park - St Louis, MO
+  - [x] Castlewood State Park - St Louis, MO
   - [ ] West Tyson County - St Louis, MO
   - [ ] Rock Hollow - St Louis, MO
   - [ ] Greensfelder County Park - St Louis, MO
