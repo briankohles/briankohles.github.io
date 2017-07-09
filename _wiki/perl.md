@@ -1,6 +1,11 @@
 ---
 title: Perl
-layout: wiki
+layout: page
+collection: wiki
+layout: page
+author: Brian Kohles
+tags: wiki perl
+categories: perl
 ---
 
 ## Convert Microsoft tick time to epoch

@@ -1,9 +1,8 @@
 ---
-layout: wiki
+layout: page
 title: Markdown Cheatsheet
-date: 2017-06-11
 author: Brian Kohles
-tags: markdown cheatsheet
+tags: wiki markdown cheatsheet
 categories: markdown
 ---
 
