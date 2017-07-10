@@ -44,7 +44,7 @@ collections:
     output: true
     permalink: /:collection/:name
 
-collections:
-  wiki:
-    output: true
-    permalink: /:collection/:name
+#collections:
+#  wiki:
+#    output: true
+#    permalink: /:collection/:name
