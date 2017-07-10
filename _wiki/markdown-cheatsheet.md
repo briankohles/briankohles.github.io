@@ -7,8 +7,6 @@ categories: markdown
 Collection: wiki
 ---
 
-# Markdown Cheatsheet
-
 ## Headers
 
 ```
@@ -51,7 +49,7 @@ Header 2
 `[I'm an inline-style link with title](https://www.google.com "Google's Homepage")`
 
 Jekyll Specific
-`[Link Text]({% post_url 2010-09-08-welcome-to-jekyll %})`
+`[Link Text](\{\% post_url 2010-09-08-welcome-to-jekyll \%\})`
 
 ## Images
 `![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")`
