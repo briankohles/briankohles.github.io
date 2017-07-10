@@ -2,7 +2,6 @@
 title: Perl
 layout: page
 collection: wiki
-layout: page
 author: Brian Kohles
 tags: wiki perl
 categories: perl

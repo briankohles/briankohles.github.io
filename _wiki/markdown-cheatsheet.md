@@ -4,6 +4,7 @@ title: Markdown Cheatsheet
 author: Brian Kohles
 tags: wiki markdown cheatsheet
 categories: markdown
+Collection: wiki
 ---
 
 # Markdown Cheatsheet
