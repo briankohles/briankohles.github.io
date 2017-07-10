@@ -7,7 +7,7 @@ layout: post
 tags: biking mountain Missouri trail
 ---
 
-We were planning to go over to Griffin Park Bike Park in Terre Haute Indiana, but it got rained out the night before. Instead we ended up going to Castlerock State Park a little west of St. Louis.
+We were planning to go over to Griffin Park Bike Park in Terre Haute Indiana, but it got rained out the night before. Instead we ended up going to Castlewood State Park a little west of St. Louis.
 
 There are four trail systems in the area:
 
