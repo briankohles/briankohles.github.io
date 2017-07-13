@@ -31,7 +31,7 @@ categories: bucketlist
   - [ ] http://www.mulberrygap.com/
 ### Missouri
   - [x] Castlewood State Park - St Louis, MO
-    - [2017-07-08]({% post_url 2017-07-08-Mountain-Biking-St-Louis-MO_-_Castlewood-State-Park %})
+    - [2017-07-08]({% post_url 2017-07-08-Mountain-Biking_-_St-Louis-MO_-_Castlewood-State-Park %})
   - [ ] West Tyson County - St Louis, MO
   - [ ] Rock Hollow - St Louis, MO
   - [ ] Greensfelder County Park - St Louis, MO
