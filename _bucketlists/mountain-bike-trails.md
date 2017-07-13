@@ -23,7 +23,7 @@ categories: bucketlist
   - [ ] Griffin Bike Park - Terra Haute IN
 ### Wisconsin
   - [x] CamRock - Cambridge, WI
-    - [2017-06-25]({% post_url 2017-06-25-mountain_biking_-_cambridge_wi_-_camrock %})
+    - [2017-06-25]({% post_url 2017-06-25-Mountain_Biking_-_Cambridge_WI_-_Camrock %})
 ### Michigan
   - [ ] Copper Harbor - Michigan, UP
   - [ ] Dr TK Lawless Park - Vandalia, MI
