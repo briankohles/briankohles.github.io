@@ -7,7 +7,9 @@ tags: trip-2017-05 trip vacation adventure nationalPark
 categories: trips
 ---
 
-This was a trip planned around attending a friends wedding.
+Sherri & I recently attended a friends wedding in Idaho. As part of that trip we planned a few days at places in the area in order to maximize adventure time.
+
+## The Itinerary
 
 * Thursday - Drive: Bloomington, IL -> Lincoln, NE
 * Friday - Drive: Lincoln, NE -> Rock Springs, WY
@@ -23,13 +25,16 @@ This was a trip planned around attending a friends wedding.
 * Friday -  Drive: Glacier NP, MT -> Bismark, ND
 * Saturday - Drive: Bismark, ND -> Bloomington , IL
 
+## The Route
+
 <!-- Google Map of trip route -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d11646191.413292851!2d-102.90466885000001!3d44.549790550000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x880b087039089ac1%3A0x2e424aa54a23bc1e!2sBloomington%2C+Illinois!3m2!1d40.4842027!2d-88.99368729999999!4m5!1s0x8796be59ca561265%3A0x633a859b1fd5deb9!2sLincoln%2C+NE!3m2!1d40.825762499999996!2d-96.6851982!4m5!1s0x875a58e8f5c28b19%3A0x725fe8127303770!2sRock+Springs%2C+WY!3m2!1d41.587464399999995!2d-109.2029043!4m5!1s0x54a60cd936432c75%3A0x146f552d9472c493!2sTamarack+Resort%2C+Village+Drive%2C+Tamarack%2C+ID!3m2!1d44.668081!2d-116.11757!4m5!1s0x536092ad38dc2e81%3A0xb14f226fee2c6b3c!2sTaft%2C+MT!3m2!1d47.416332!2d-115.597168!4m5!1s0x53661bf15e028ecd%3A0x34eb18aa9eae5ee7!2sLake+McDonald+Lodge%2C+West+Glacier%2C+MT!3m2!1d48.6173923!2d-113.8791275!4m5!1s0x52d7831257d8e963%3A0xccaabd12f9bbca93!2sBismarck%2C+ND!3m2!1d46.808326799999996!2d-100.7837392!4m5!1s0x880b087039089ac1%3A0x2e424aa54a23bc1e!2sBloomington%2C+IL!3m2!1d40.4842027!2d-88.99368729999999!5e0!3m2!1sen!2sus!4v1497062432244" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 ## Day 1 - Thursday
 ***Drive:*** Bloomington, IL -> Lincoln, NE
 
-Just driving today, nothing exciting. We hit the road about 3:30 & got to the hotel around midnight.
+Just driving today, nothing exciting. We hit the road about 3:30pm & got to the hotel around midnight.
 
 
 ## Day 2 - Friday
@@ -39,9 +44,11 @@ Just driving again today.
 
 Talked to mom, going to meet her tomorrow for brunch when we pass through Ogden.
 
-We did see a cool old Jeep Truck today.
+We did see a cool old Jeep Truck today, at the place we stopped for dinner in Wyoming.
 
-{% include image name="oldTruck.png" caption="Old Jeep truck in Rock Springs, WY" %}
+{% include image name="oldTruck.png" caption="Old Jeep truck in Rawlings, WY" %}
+
+We arrived at the hotel fairly early tonight, at around 7pm. We didn't have anything planned in Rock Springs so we just went straight to the hotel & got to bed early.
 
 
 ## Day 3 - Saturday
@@ -63,15 +70,18 @@ Afterwards we went for a bike ride around some of the golf course.
 
 Then I went for a bike ride on my own after Sherri went back to the room. Got to do some great cross country biking in actual mountains. It was very scenic, and very easy going.
 
+{% include image name="biking-tamarack-S.jpg" caption="Biking @ Tamarack Resort" %}
 
 ## Day 5 - Monday
 ***Drive:*** Tamarack Resort, ID -> Taft, MT
   * Adventure: Ride the Route of the Hiawatha Trail
   * Drive: Taft, MT -> West Glacier National Park, MT
 
-Woke up early for the drive to Taft MT to ride the Hiawatha trail.
+Woke up early for the drive to Taft MT to ride the Route of the Hiawatha trail.
 
-Spent the afternoon riding down the trail. It took a very long time to get there but the trail was incredibly scenic.
+{% include image name="biking-tamarack-S.jpg" caption="Biking @ Tamarack Resort" %}
+
+Spent the afternoon riding down the trail. It took a very long time to get there but the trail was incredibly scenic. If you enjoy riding rail trails or great scenery this is a must do activity if you are within a days drive of northern Idaho
 
 <!-- BEGIN MTB Project -->
 <iframe style="width:100%; max-width:1200px; height:410px;" frameborder="0" scrolling="no" src="https://www.mtbproject.com/widget?v=3&map=1&type=trail&id=7015166&x=-12194000&y=4663850&z=6"></iframe>

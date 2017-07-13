@@ -10,7 +10,7 @@ categories: bucketlist
 ### Illinois
   - [ ] Palos Heights - up by Chicago
   - [ ] Kickapoo - Champaign
-  - [x] Farmdale - Pekin?
+  - [x] Farmdale - Morton, IL
   - [X] Comlara Park - Bloomington, IL
   - [ ] Black Partridge - Metamora, IL
   - [ ] Independence Park - Washington, IL
