@@ -14,7 +14,8 @@
   </title>
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/styles/kbdfun.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/styles/font-awesome/css/font-awesome.min.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
@@ -27,11 +28,12 @@
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a><br clear="all" />
           <small>{{ site.tagline }}</small>
-          {% for page in site.pages_list %}
-            &nbsp;&nbsp;&nbsp;
-            <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-          {% endfor %}
-          &nbsp;&nbsp;&nbsp;<a href="/atom.xml"><i class="fa fa-rss-square"></i></a>
+&nbsp;&nbsp;&nbsp;<small><a href="/archive"><i class="fa fa-archive"></i> Archive</a></small>
+&nbsp;&nbsp;&nbsp;<small><a href="/findMe"><i class="fa fa-search"></i> Find Me</a></small>
+&nbsp;&nbsp;&nbsp;<small><a href="/wiki"><i class="fa fa-book"></i> Wiki</a></small>
+&nbsp;&nbsp;&nbsp;<small><a href="/bucketlists"><i class="fa fa-th-list"></i> Bucket Lists</a></small>
+&nbsp;&nbsp;&nbsp;<small><a href="/atom.xml"><i class="fa fa-rss-square"></i> Feed</a></small>
+
         </h3>
       </header>
       <main>
