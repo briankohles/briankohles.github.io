@@ -45,7 +45,7 @@ categories: bucketlist
   - [ ] Climb Works - Gatlinburg, TN
 ### Wisconsin
   - [x] CamRock - Cambridge, WI
-    - [2017-06-25]({% post_url 2017-06-25-mountain_biking_-_cambridge_wi_-_camrock %})
+    - [2017-06-25]({% post_url 2017-06-25-Mountain_Biking_-_Cambridge_WI_-_Camrock %})
 
 
 
@@ -54,6 +54,3 @@ categories: bucketlist
 
     
 https://www.singletracks.com/blog/mtb-trails/7-trails-along-i-70-that-will-make-your-next-road-trip-rock/
-
-
-    
