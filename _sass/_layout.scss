@@ -2,6 +2,10 @@
 //
 // Styles for managing the structural hierarchy of the site.
 
+body {
+  padding: 10px;
+}
+
 .container {
   max-width: 38rem;
   padding-left:  1.5rem;
@@ -11,5 +15,51 @@
 }
 
 footer {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+}
+
+#menubar {
+  width: 100%;
+  margin: 5px 0 5px 0;
+
+}
+
+#menu {
+
+}
+
+#searchbar {
+	
+}
+
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+}
+
+li.menuitem {
+    float: left;
+}
+
+li.menuitem a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 4px 10px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li.menuitem a:hover {
+    background-color: #ccc;
+}
+
+#masthead-title {
+  font-size: 4rem;
+  margin: 0 auto 0 auto;
 }
