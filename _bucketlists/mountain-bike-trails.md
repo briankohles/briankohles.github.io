@@ -46,7 +46,8 @@ categories: bucketlist
 ### Wisconsin
   - [x] CamRock - Cambridge, WI
     - [2017-06-25]({% post_url 2017-06-25-Mountain_Biking_-_Cambridge_WI_-_Camrock %})
-
+  - [ ] Sylvan Hill Park - Wausau, WI
+    - expected to open in August 2017
 
 
 
