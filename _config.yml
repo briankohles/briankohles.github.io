@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Brian Kohles
 tagline:             
 url:                 http://briankohles.com
-paginate:            10
+paginate:            5
 baseurl:             ""
 
 # Assets
