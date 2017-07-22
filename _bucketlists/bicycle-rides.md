@@ -7,6 +7,8 @@ tags: bucketlist mountainbike trail
 categories: bucketlist
 ---
 
+## Mountain Biking Trails
+
 ### Arkansas
   - [ ] Bentonville, AR
     - https://www.singletracks.com/blog/mtb-trails/northwest-arkansas-13-million-can-build/
@@ -48,8 +50,14 @@ categories: bucketlist
     - [2017-06-25]({% post_url 2017-06-25-Mountain_Biking_-_Cambridge_WI_-_Camrock %})
   - [ ] Sylvan Hill Park - Wausau, WI
     - expected to open in August 2017
+  - [ ] Nine Mile - Wausau, WI
 
+## Rail Trails & Road Rides
 
+### Idaho
+  - [x] Route of The Hiawatha - Avery, ID
+### Montana
+  - [x] Going-to-the-Sun-Road - Glacier National Park, MT
 
 
 
