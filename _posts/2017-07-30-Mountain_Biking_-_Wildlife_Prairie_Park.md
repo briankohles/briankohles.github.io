@@ -20,7 +20,7 @@ var script = document.createElement("script"); script.setAttribute("src", "https
 <!-- TRAILFORKS WIDGET END -->
 
 ## Tracks For The Day
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1111405050/embed/30494429d0346bb8ab96f7165f2859512e0d63ba'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1109661912/embed/2fc8777a2d92d7ebb8aa7a4af0d7ad70b91c4a32'></iframe>
 
 ## Strava Flybys
 This is a new Strava Labs thing. Shows you where you were in relation to your buddies from the same ride.
