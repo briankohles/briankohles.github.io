@@ -42,6 +42,6 @@ Each light has 3 Wires:
 
 The wiring is easy just follow the below diagram. For the brown wires just use the brown to one light & the brown/green to the other, it doesn’t matter which goes to which.
 
-{% include image name="Wiring diagram" caption="Trailer wiring diagram" %}
+{% include image name="wiring-diagram.jpeg" caption="Trailer wiring diagram" %}
 
 
