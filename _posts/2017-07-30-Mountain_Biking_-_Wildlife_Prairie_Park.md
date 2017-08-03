@@ -24,6 +24,6 @@ var script = document.createElement("script"); script.setAttribute("src", "https
 
 ## Strava Flybys
 This is a new Strava Labs thing. Shows you where you were in relation to your buddies from the same ride.
-[http://labs.strava.com/flyby/viewer/#1111405050?c=dp0xjqee&z=F&t=1PVxZR&a=-rE-Qp-fPUJ6rj1Cz209Qg](Strava Flybys)
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://labs.strava.com/flyby/viewer/#1111405050?c=dp0xjqee&z=F&t=1PVxZR&a=-rE-Qp-fPUJ6rj1Cz209Qg'></iframe>
 
 
