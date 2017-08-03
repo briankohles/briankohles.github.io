@@ -11,7 +11,7 @@ I’ve had a few people at the trailhead comment on the trailer lights I put on 
 
 While writing this post I had the idea that using an LED light strip (like the kind they put below the tailgate on a truck), might be a cheaper and easier solution. Which it turns out it is. I can’t vouch for this type of install, but I have used similar lights on my motorcycle with no issues. So maybe save some time and money & have a look @ these:
 
-[60 Inch Tailgate LED Light Bar](Winblink 60 Inch Auto Tailgate Light Bar Led Tail Light Strip Waterproof Running Reverse Brake Turn Signal for Dodge Ram Truck Ford https://www.amazon.com/dp/B01DFXN8DY/ref=cm_sw_r_cp_api_EjCGzbAN7CZ75)
+[60 Inch Tailgate LED Light Bar](https://www.amazon.com/dp/B01DFXN8DY/ref=cm_sw_r_cp_api_EjCGzbAN7CZ75)
 
 ## Parts
 * A pair of trailer lights. I use this set due to the low profile.
@@ -30,7 +30,7 @@ $25
  
 The first step is to wire the lights up temporarily to make sure all the connections are correct.
 
-There is a good wiring info table on eTrailer: [https://www.etrailer.com/faq-wiring.aspx](Wiring FAQ) this is where I found the info for the below.
+There is a good wiring info table on eTrailer: [eTrailer Wiring FAQ](https://www.etrailer.com/faq-wiring.aspx) this is where I found the info for the below.
  
 There are 5 wires coming off the wiring harness:
 * White - ground to rack
@@ -44,7 +44,12 @@ Each light has 3 Wires:
 * Green - Turn
 * Black - Tail/marker
 
-The wiring is easy just follow the below diagram. For the brown wires just use the brown to one light & the brown/green to the other, it doesn’t matter which goes to which.
+The wiring is easy just follow the below diagram, and connect the wires as:
+* All the whites together & bolt these directly to the bike rack for a ground.
+* Connect the Brown/Green to the black wire on one of the lights.
+* Connect the brown to the black wire on the other light.
+* Connect the green wire to the green wire on the RIGHT light.
+* Connect the yellow wire to the green wire on the LEFT light.
 
 {% include image name="wiring-diagram.jpg" caption="Trailer wiring diagram" %}
 
