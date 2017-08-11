@@ -8,7 +8,9 @@ categories: bucketlist
 ---
 
 ## Adventure Rides
-  - [ ] [http://joberg2c.co.za](JoBerg2c - 900km ride across South Africa)
+  - [ ] [JoBerg2c - 900km ride across South Africa](http://joberg2c.co.za)
+  - [ ] [BC Bike Race](https://www.bcbikerace.com/)
+  - [ ] [Great Divide Mountain Bike Route](http://www.bikepacking.com/routes/great-divide-mountain-bike-route-gdmbr/)
 
 ## Mountain Biking Trails
 
