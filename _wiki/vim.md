@@ -6,8 +6,13 @@ author: Brian Kohles
 tags: wiki vim
 categories: vim
 —
- 
-**Note:** Items with multiple keystrokes seperated by a comma should by typed one at a time in that order. ex: <kbd>g</kbd>, <kbd>g</kbd> -- Press "g" twice in a row.
+
+> **Note:**
+> Items with multiple keystrokes seperated by a comma should by typed one at a time in that order.
+> ex: <kbd>g</kbd>, <kbd>g</kbd> -- Press "g" twice in a row.
+> 
+> Items with multiple keystrokes joined with a plus should be pressed at the same time.
+> ex: <kbd>Shift + g</kbd> -- Press shift & "g" to create an uppercase G.
 
 ## Basics:
 
@@ -32,7 +37,9 @@ When in Command mode type one of the following to enter edit mode:
 
 Press <kbd>Esc</kbd> to exit edit mode, and return to command mode.
 
-Note: Pressing <kbd>Esc</kbd> after typing something will become habit after a while. Doing this outside of  vim will cause you to accidentally close an IM window at some point.
+> **Note:**
+> Pressing <kbd>Esc</kbd> after typing something will become habit after a while.
+> Doing this outside of  vim will cause you to accidentally close an IM window at some point.
 
 ## Command Mode Commands
 
@@ -69,12 +76,24 @@ Deleting something will cut that item into the paste buffer so it can be pasted 
 * <kbd>d</kbd>, <kbd>$</kbd> - delete to end of line
 * <kbd>d</kbd>, <kbd>d</kbd> - delete the selected line
 
-### Copying (yank)
+### Copy (yank)
+
+  Note: When you copy in Vi this is a different clipboard than your desktop clipboard.
 
 * <kbd>y</kbd> - copy current selection
 * <kbd>y</kbd>, <kbd>w</kbd> - copy to end of current word
 * <kbd>y</kbd>, <kbd>$</kbd> - copy to end of line
 * <kbd>y</kbd>, <kbd>y</kbd> - copy the selected line
+
+### Paste (put)
+
+* <kbd>p</kbd> - paste clipboard after cursor
+* <kbd>Shift + p</kbd> - paste clipboard before cursor
+
+### Undo/Redo
+
+* <kbd>u</kbd> - Undo
+* <kbd>Cntrl + r</kbd> - Redo
 
 ### Finding & Replacing Things
 
@@ -136,14 +155,14 @@ Remove duplicates lines on sort
 
 #### Moving between windows
 
-* <kbd>Ctrl-w</kbd>, <kbd>Cntrl-w</kbd> - move to next viewport
-* <kbd>Ctrl-w</kbd>, <kbd>j</kbd> - moves one viewport down.
-* <kbd>Ctrl-w</kbd>, <kbd>k</kbd> - moves one viewport up.
-* <kbd>Ctrl-w</kbd>, <kbd>h</kbd> - moves one viewport to the left.
-* <kbd>Ctrl-w</kbd>, <kbd>l</kbd> - moves one viewport to the right.
-* <kbd>Ctrl-w</kbd>, <kbd>=</kbd> - tells Vim to resize viewports to be of equal size.
-* <kbd>Ctrl-w</kbd>, <kbd>-</kbd> - reduce active viewport by one line.
-* <kbd>Ctrl-w</kbd>, <kbd>+</kbd> - increase active viewport by one line.
+* <kbd>Ctrl + w</kbd>, <kbd>Cntrl + w</kbd> - move to next viewport
+* <kbd>Ctrl + w</kbd>, <kbd>j</kbd> - moves one viewport down.
+* <kbd>Ctrl + w</kbd>, <kbd>k</kbd> - moves one viewport up.
+* <kbd>Ctrl + w</kbd>, <kbd>h</kbd> - moves one viewport to the left.
+* <kbd>Ctrl + w</kbd>, <kbd>l</kbd> - moves one viewport to the right.
+* <kbd>Ctrl + w</kbd>, <kbd>=</kbd> - tells Vim to resize viewports to be of equal size.
+* <kbd>Ctrl + w</kbd>, <kbd>-</kbd> - reduce active viewport by one line.
+* <kbd>Ctrl + w</kbd>, <kbd>+</kbd> - increase active viewport by one line.
 
 ### Tabs
 
@@ -152,3 +171,34 @@ Remove duplicates lines on sort
 * `:tabp` - Previous Tab
 * <kbd>g</kbd>, <kbd>t</kbd> - Go to the next tabpage
 * {count}<kbd>g</kbd>, <kbd>t</kbd> - Go to tabpage #{count}
+
+### Indent/Dedent Code Blocks
+
+Blocks of code can be moved/tabbed left/right as a group.
+
+Place your cursor on a line to be moved and press <kbd>></kbd>, <kbd>></kbd> to move the line right one "tab", or <kbd><</kbd>, <kbd><</kbd> to move the line left one "tab".
+
+Select lines to be moved and press <kbd>></kbd> to move right, or <kbd><</kbd> to move left.
+
+### Performing actions multiple times
+
+Many commands can be preceeded by a count in order to perform them multiple times. For example to delete 3 lines type <kbd>3</kbd>, <kbd>d</kbd>, <kbd>d</kbd>.
+
+The previous command can also be redone by pressing <kbd>.</kbd>
+
+### Matching Brackets
+
+Use the <kbd>%</kbd> key to jump from an open or close bracket (parenthesis, square, or curly), to its matching close or open bracket.
+
+### Macros
+
+Macros can be recorded to replay multiple commands.
+
+1. press <kbd>q</kbd> to start recording
+2. press a character `a-z0-9(A-Z?)` to assign the macro to that character
+3. enter the commands that you want to store
+4. press <kbd>q</kbd> to stop recording
+
+To Replay type <kbd>@</kbd>, <kbd>A</kbd> (A is the character you chose in step 2 above).
+
+To replay 7 times do <kbd>7</kbd>, <kbd>@</kbd>, <kbd>A</kbd>
