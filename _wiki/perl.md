@@ -30,7 +30,7 @@ sub tickToEpoch {
 
 Formula from: [Stack Overflow](https://stackoverflow.com/questions/6161776/convert-windows-filetime-to-second-in-unix-linux#6161842)
 
-## passing data to subs
+## Passing data to subs
 
 ### Defining the sub
 ```
