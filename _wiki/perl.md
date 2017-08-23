@@ -29,3 +29,23 @@ sub tickToEpoch {
 ```
 
 Formula from: [Stack Overflow](https://stackoverflow.com/questions/6161776/convert-windows-filetime-to-second-in-unix-linux#6161842)
+
+## passing data to subs
+
+### Defining the sub
+```
+sub Test {
+	my ($args) = @_;
+	# aruments are passed in as a hashRef in the format of:
+	# $args->{host} -- hostname to connect to
+	# $args->{bindDn} -- bind DN (optional)
+	
+	return $item;
+}
+```
+### Calling the sub
+```
+my $return = test({
+    host => 'testHost.test.com',
+});
+```
