@@ -58,7 +58,7 @@ categories: bucketlist
   - [ ] Sylvan Hill Park - Wausau, WI
     - expected to open in August 2017
   - [ ] Nine Mile - Wausau, WI
-  - [ ] 
+  - [ ] Little Swiss
 
 ## Rail Trails & Road Rides
 
