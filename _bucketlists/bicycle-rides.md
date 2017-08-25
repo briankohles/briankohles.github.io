@@ -43,6 +43,7 @@ categories: bucketlist
 ### Michigan
   - [ ] Copper Harbor - Michigan, UP
   - [ ] Dr TK Lawless Park - Vandalia, MI
+  - [ ] Potowatomi Trail - Pinckney State Recreation Area - Pinckney, MI
 ### Missouri
   - [x] Castlewood State Park - St Louis, MO
     - [2017-07-08]({% post_url 2017-07-08-Mountain-Biking_-_St-Louis-MO_-_Castlewood-State-Park %})
@@ -57,6 +58,7 @@ categories: bucketlist
   - [ ] Sylvan Hill Park - Wausau, WI
     - expected to open in August 2017
   - [ ] Nine Mile - Wausau, WI
+  - [ ] 
 
 ## Rail Trails & Road Rides
 
