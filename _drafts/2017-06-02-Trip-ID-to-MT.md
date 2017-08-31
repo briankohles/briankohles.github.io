@@ -32,19 +32,19 @@ Sherri & I recently attended a friends wedding in Idaho. As part of that trip we
 
 
 ## Day 1 - Thursday
-***Drive:*** Bloomington, IL -> Lincoln, NE
+**Drive:** Bloomington, IL -> Lincoln, NE
 
 Just driving today, nothing exciting. We hit the road about 3:30pm & got to the hotel around midnight.
 
 
 ## Day 2 - Friday
-***Drive:*** Lincoln, NE -> Rock Springs, WY
+**Drive:** Lincoln, NE -> Rock Springs, WY
 
 Just driving again today.
 
 Talked to mom, going to meet her tomorrow for brunch when we pass through Ogden.
 
-We did see a cool old Jeep Truck today, at the place we stopped for dinner in Wyoming.
+We did see a cool old Jeep Truck today, at the place we stopped for dinner in Rawlings, Wyoming.
 
 {% include image name="oldTruck.png" caption="Old Jeep truck in Rawlings, WY" %}
 
@@ -52,17 +52,19 @@ We arrived at the hotel fairly early tonight, at around 7pm. We didn't have anyt
 
 
 ## Day 3 - Saturday
-***Drive:*** Rock Springs, WY -> Tamarack Resort, ID
+**Drive:** Rock Springs, WY -> Tamarack Resort, ID
 
-The drive to Tamarack took a very long time through lots of little towns, and twisty turny mountain roads.
+The drive to Tamarack took a very long time through lots of little towns, and twisty turny mountain roads. On the way we did pass through Boise, ID.
 
-***Stop:*** [Meriwether Cider Co](http://www.meriwethercider.com)
+**Stop:** [Meriwether Cider Co](http://www.meriwethercider.com)
 
 On the way we stopped at Meriwether Cider Co in Boise, CO
 
+It wasn’t too late when we got to the lodge. We got settled & met with some of the wedding party for dinner.
+
 
 ## Day 4 - Sunday
-***Stay:*** Tamarack Resort, ID
+**Stay:** Tamarack Resort, ID
 
 Went for a jog/walk with Sherri in the morning along the golf course. Didn't look like it's actually open for any golfing, but it was a nice view, and a good place for a run.
 
@@ -73,13 +75,11 @@ Then I went for a bike ride on my own after Sherri went back to the room. Got to
 {% include image name="biking-tamarack-S.jpg" caption="Biking @ Tamarack Resort" %}
 
 ## Day 5 - Monday
-***Drive:*** Tamarack Resort, ID -> Taft, MT
+**Drive:** Tamarack Resort, ID -> Taft, MT
   * Adventure: Ride the Route of the Hiawatha Trail
   * Drive: Taft, MT -> West Glacier National Park, MT
 
 Woke up early for the drive to Taft MT to ride the Route of the Hiawatha trail.
-
-{% include image name="biking-tamarack-S.jpg" caption="Biking @ Tamarack Resort" %}
 
 Spent the afternoon riding down the trail. It took a very long time to get there but the trail was incredibly scenic. If you enjoy riding rail trails or great scenery this is a must do activity if you are within a days drive of northern Idaho
 
@@ -87,7 +87,9 @@ Spent the afternoon riding down the trail. It took a very long time to get there
 <iframe style="width:100%; max-width:1200px; height:410px;" frameborder="0" scrolling="no" src="https://www.mtbproject.com/widget?v=3&map=1&type=trail&id=7015166&x=-12194000&y=4663850&z=6"></iframe>
 <!-- END MTB Project -->
 
-Afterwards we drove to Glacier National Park, which was also a very long, but scenic drive.
+**Drive:** Taft, MT -> Glacier National Park
+
+The drive to Glacier National Park, was also a very long, but scenic drive. It was a little odd at times. There were stretches of road where we didn’t see anything or anyone for 30 minutes. But it was vast and beautiful scenery.
 
 I'm not sure how I calculated the drive times so wrong. I thought it was only 3 hours to Hiawatha & then another 3 to glacier. It was actually about 7 to Hiawatha & then 3.5ish to glacier.
 
@@ -95,7 +97,7 @@ We got up @ 6am & are now just getting to bed at 12:30.
 
 
 ## Day 6 - Tuesday
-***Stay:*** Glacier National Park, MT
+**Stay:** Glacier National Park, MT
 
 First day in Glacier
 
@@ -107,7 +109,7 @@ We ended up doing the Avalanche trail up to Avalanche Lake it was a good hike, I
 
 The lake was beautiful with a great mountain backdrop and waterfalls of snow melt pouring down the mountain.
 
-We saw some deer on the hike, but no bear. There was talk of grizzlies at the lake, but we only heard this after we were heading back down.
+We saw some deer on the hike, but no bear. There was talk of grizzlies at the lake, but we only heard this after we were heading back down, and I think they were on the far shore so I don’t think we’d have been able to really see them anyway.
 
 Later in the evening we did go out for a short drive and saw a black bear just off the road, then saw more deer later on.
 
@@ -115,7 +117,7 @@ During our evening drive we saw a HUGE pack of ADV bikes, almost all BMW GS1200s
 
 
 ## Day 7 - Wednesday
-***Stay:*** Glacier National Park, MT
+**Stay:** Glacier National Park, MT
 
 Second day in Glacier.
 
@@ -127,7 +129,7 @@ The view was jaw dropping the whole way there. We saw a few deer, but no bears.
 
 The total ride was 16.9 miles, and Sherri did the entire thing. It was great to be able to do this ride with her.
 
-Near the end of the ride (maybe ¾ of the way up) there was a short tunnel, which had two arches looking out over the valley, water was streaming down over the front of the arches. I took a brief shower in the water. Being glacial melt it was incredibly cold, but also very refreshing.
+Near the end of the ride (maybe ¾ of the way up) there was a short tunnel, which had two or three arches looking out over the valley, water was streaming down over the front of the arches. I took a brief shower in the water. Being glacial melt it was incredibly cold, but also very refreshing.
 
 After our ride we went to some small shops & had lunch out, and stopped by the Apgar visitor center.
 
@@ -137,7 +139,7 @@ In the evening we walked over to the little camp store & got a bottle of cold ci
 
 
 ## Day 8 - Thursday
-***Stay:*** Glacier National Park, MT
+**Stay:** Glacier National Park, MT
   * Adventure: White water rafting
 
 Last day in Glacier, leaving early tomorrow morning.
@@ -152,13 +154,14 @@ In the evening I went out and shot some pictures of the area.
 
 
 ## Day 9 - Friday
-***Drive:*** Glacier NP, MT -> Bismark, ND
+**Drive:** Glacier NP, MT -> Bismark, ND
 
-Stopped at Tongue River Winery
+Stopped at Tongue River Winery, they had a lot of good wines and we ended up leaving with a case.
 
-Checked into the hotel for the night, in Bismark, ND. Upon seeing my license the front Desk person commented “Oh, we've had a lot of people from the east coast today”, it was around midnight so I had no energy to give her a geography lesson.
+Checked into the hotel for the night, in Bismark, ND. Upon seeing my license the front Desk person commented “Oh, we've had a lot of people from the east coast today”, it was around midnight so I had no energy to give them a geography lesson.
 
 
 ## Day 10 - Saturday
-***Drive:*** Bismark, ND -> Bloomington , IL
+**Drive:** Bismark, ND -> Bloomington , IL
 
+Nothing exciting to report on this leg. Only that it was good to be home. We will definitely be going back to Glacier at some point, and staying longer. Hopefully we can see all the sections of the park & get in some longer hikes.
