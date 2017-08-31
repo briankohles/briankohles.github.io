@@ -14,6 +14,8 @@ categories: bucketlist
 
 ## Mountain Biking Trails
 
+### Canada
+  - [ ] Stevie Smith Memorial ParkNanaimo, Vancouver Island.
 ### Arkansas
   - [ ] Bentonville, AR
     - https://www.singletracks.com/blog/mtb-trails/northwest-arkansas-13-million-can-build/
@@ -29,7 +31,7 @@ categories: bucketlist
   - [x] Farmdale - Morton, IL
   - [X] Comlara Park - Bloomington, IL
   - [ ] Black Partridge - Metamora, IL
-  - [ ] Independence Park - Washington, IL
+  - [x] Independence Park - Washington, IL
   - [x] Wildlife Prairie Park - Peoria, IL
     
 ### Indiana
