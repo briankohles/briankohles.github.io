@@ -1,11 +1,11 @@
-—
+-
 title: Vim
 layout: page
 collection: wiki
 author: Brian Kohles
 tags: wiki vim
 categories: vim
-—
+-
 
 > **Note:**
 > Items with multiple keystrokes seperated by a comma should by typed one at a time in that order.
