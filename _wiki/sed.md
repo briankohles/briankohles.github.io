@@ -1,3 +1,12 @@
+---
+title: Sed
+layout: page
+collection: wiki
+author: Brian Kohles
+tags: wiki sed
+categories: wiki
+---
+
 ## replace string
 sed -e 's/\/.*\///g'
 	- remove /.*/ (directory structure from file)
