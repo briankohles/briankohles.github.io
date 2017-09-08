@@ -1,3 +1,4 @@
+```
 $("*") Selects all elements Try it 
 $(this) Selects the current HTML element Try it 
 $("p.intro") Selects all <p> elements with class="intro" Try it 
@@ -10,3 +11,4 @@ $("a[target!='_blank']") Selects all <a> elements with a target attribute value 
 $(":button") Selects all <button> elements and <input> elements of type="button" Try it 
 $("tr:even") Selects all even <tr> elements Try it 
 $("tr:odd") Selects all odd <tr> elements Try it 
+```
