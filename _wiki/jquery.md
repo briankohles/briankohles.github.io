@@ -1,3 +1,12 @@
+---
+title: jquery
+layout: page
+collection: wiki
+author: Brian Kohles
+tags: wiki jquery
+categories: wiki
+---
+
 ```
 $("*") Selects all elements Try it 
 $(this) Selects the current HTML element Try it 
