@@ -8,7 +8,13 @@ categories: wiki
 ---
 
 Get the context of a process
+
 `ps auxZ | grep -i httpd `
 
 Get the context of a file
+
 `ls -laZ emmet.png terminator.png`
+
+Restore the context of a directory
+
+`restorecon -Rv /srv/www`
