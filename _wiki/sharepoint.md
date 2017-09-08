@@ -9,6 +9,7 @@ categories: wiki
 
 ## Linking to sharepoint as a folder instead of a web page
 ### Will open in Windows Explorer
-<\\my.mydomain.org\personal\userName\Documents\Shared with Everyone\Monthly_Status_(Template)>
+`<\\my.mydomain.org\personal\userName\Documents\Shared with Everyone\Monthly_Status_(Template)>`
+
 ### Will open in IE
-<https://my.mydomain.org/personal/userName/Documents/Shared with Everyone/Monthly_Status_(Template)>
+`<https://my.mydomain.org/personal/userName/Documents/Shared with Everyone/Monthly_Status_(Template)>`
