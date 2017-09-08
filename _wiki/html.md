@@ -1,3 +1,12 @@
+---
+title: HTML
+layout: page
+collection: wiki
+author: Brian Kohles
+tags: wiki html
+categories: wiki
+---
+
 ## Create a simple bar graph in CSS
 ```
 <style type="text/css" media="screen">
