@@ -23,3 +23,9 @@
   </div>
 </fieldset>
 ```
+
+## Using Div instead of tables
+### *NOTE:* NEVER DO THIS!!!!
+This is BAD. HTML tables are made for Tabular data. Using Divs instead of tables makes the table not able to copy/paste into something like excel.
+
+Tables are good for tabular data, not good for layout.
