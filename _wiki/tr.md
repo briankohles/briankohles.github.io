@@ -1,3 +1,12 @@
+---
+title: tr
+layout: page
+collection: wiki
+author: Brian Kohles
+tags: wiki tr
+categories: wiki
+---
+
 ## Remove EOL from a file
 tr -d '\r' $file
 tr -d '\n' < input.txt > output.txt
