@@ -202,3 +202,8 @@ Macros can be recorded to replay multiple commands.
 To Replay type <kbd>@</kbd>, <kbd>A</kbd> (A is the character you chose in step 2 above).
 
 To replay 7 times do <kbd>7</kbd>, <kbd>@</kbd>, <kbd>A</kbd>
+
+### Folding
+
+* Create fold from selection: <kbd>z</kbd>, <kbd>f</kbd>
+* Delete fold (does not delete text in fold): <kbd>z</kbd>, <kbd>d</kbd>
