@@ -181,6 +181,8 @@ Place your cursor on a line to be moved and press <kbd>></kbd>, <kbd>></kbd> to 
 
 Select lines to be moved and press <kbd>></kbd> to move right, or <kbd><</kbd> to move left.
 
+* Quickly format a whole bunch of code by selecting the block & then pressing <kbd>=</kbd> this will auto indent everything.
+
 ### Performing actions multiple times
 
 Many commands can be preceeded by a count in order to perform them multiple times. For example to delete 3 lines type <kbd>3</kbd>, <kbd>d</kbd>, <kbd>d</kbd>.
