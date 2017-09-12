@@ -100,6 +100,7 @@ Deleting something will cut that item into the paste buffer so it can be pasted 
 Find:
 
 * <kbd>/</kbd> + string_to_search_for - "/cat" will find instances of "cat"
+* <kbd>*</kbd> Find next occurance of word currently under cursor.
 
 Replace:
 
