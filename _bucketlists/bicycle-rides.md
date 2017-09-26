@@ -29,7 +29,7 @@ categories: bucketlist
   - [ ] http://www.mulberrygap.com/
   
 ### Illinois
-  - [ ] Palos Heights - up by Chicago
+  - [x] Palos Heights - up by Chicago
   - [ ] Kickapoo - Champaign
   - [x] Farmdale - Morton, IL
   - [X] Comlara Park - Bloomington, IL
@@ -58,6 +58,10 @@ categories: bucketlist
   - [ ] West Tyson County - St Louis, MO
   - [ ] Rock Hollow - St Louis, MO
   - [ ] Greensfelder County Park - St Louis, MO
+
+### North Dakota
+  - [ ] Maah Daah Hey Trail
+    - http://mdhta.com
   
 ### Tennessee
   - [ ] Climb Works - Gatlinburg, TN
@@ -69,6 +73,7 @@ categories: bucketlist
     - expected to open in August 2017
   - [ ] Nine Mile - Wausau, WI
   - [ ] Little Swiss
+  - [ ] Kettle Moraine
 
 ## Rail Trails & Road Rides
 
@@ -79,6 +84,8 @@ categories: bucketlist
   - [x] Going-to-the-Sun-Road - Glacier National Park, MT
 
 
+
+https://www.singletracks.com/blog/mtb-trails/five2ride-5-of-the-best-mtb-trails-in-illinois/
 
     
 https://www.singletracks.com/blog/mtb-trails/7-trails-along-i-70-that-will-make-your-next-road-trip-rock/
