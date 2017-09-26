@@ -100,6 +100,7 @@ Deleting something will cut that item into the paste buffer so it can be pasted 
 Find:
 
 * <kbd>/</kbd> + string_to_search_for - "/cat" will find instances of "cat"
+* <kbd>*</kbd> Find next occurance of word currently under cursor.
 
 Replace:
 
@@ -180,6 +181,8 @@ Place your cursor on a line to be moved and press <kbd>></kbd>, <kbd>></kbd> to 
 
 Select lines to be moved and press <kbd>></kbd> to move right, or <kbd><</kbd> to move left.
 
+* Quickly format a whole bunch of code by selecting the block & then pressing <kbd>=</kbd> this will auto indent everything.
+
 ### Performing actions multiple times
 
 Many commands can be preceeded by a count in order to perform them multiple times. For example to delete 3 lines type <kbd>3</kbd>, <kbd>d</kbd>, <kbd>d</kbd>.
@@ -202,3 +205,8 @@ Macros can be recorded to replay multiple commands.
 To Replay type <kbd>@</kbd>, <kbd>A</kbd> (A is the character you chose in step 2 above).
 
 To replay 7 times do <kbd>7</kbd>, <kbd>@</kbd>, <kbd>A</kbd>
+
+### Folding
+
+* Create fold from selection: <kbd>z</kbd>, <kbd>f</kbd>
+* Delete fold (does not delete text in fold): <kbd>z</kbd>, <kbd>d</kbd>
