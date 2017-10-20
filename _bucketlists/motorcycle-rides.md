@@ -10,3 +10,6 @@ categories: bucketlist
 ## California
 - [ ] Giant Sequoias
   - http://www.advpulse.com/adv-rides/ride-california-giant-sequoias/
+
+## South Dakota
+- [ ] Needles Highway

@@ -26,6 +26,11 @@ categories: bucketlist
     - [ ] Coler
   - [ ] Rogers, AR
     - jump park with path through a train car
+
+### California
+  - [ ] Cannell Trail
+    - https://www.mtbproject.com/trail/5746950
+    - http://kernriversierra.com/bike/cannell.html
     
 ### Georgia
   - [ ] http://www.mulberrygap.com/
@@ -68,6 +73,10 @@ categories: bucketlist
   
 ### Tennessee
   - [ ] Climb Works - Gatlinburg, TN
+
+### Utah
+  - [ ] Moab
+    - [ ] White Rim, Porcupine & Shafer trails
   
 ### Wisconsin
   - [x] CamRock - Cambridge, WI
