@@ -13,7 +13,7 @@ I was playing with the AppleTV (4th gen) the other day and accidentally triggere
 
 ### Play/Pause -- hold for a few seconds
 
-* This will allow you to change audio output, this is helpful for switching to a previously paired set of bluetooth headphones.
+* This will allow you to change audio output, this is helpful for switching to a previously paired set of bluetooth headphones. Found this one via [johsherrod.net](https://johnsherrod.net/how-to-quickly-switch-audio-to-bluetooth-headphones-on-apple-tv-5084558a164f)
 
 ### Play/Pause + Volume Down
 
