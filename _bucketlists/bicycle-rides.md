@@ -16,6 +16,7 @@ categories: bucketlist
 
 ### Canada
   - [ ] Stevie Smith Memorial ParkNanaimo, Vancouver Island.
+  - [ ] Cowichan Valley Trail, Vancouver Island
   
 ### Arkansas
   - [ ] Bentonville, AR
@@ -32,6 +33,9 @@ categories: bucketlist
     - https://www.mtbproject.com/trail/5746950
     - http://kernriversierra.com/bike/cannell.html
     
+### Colorado
+  - [ ] Moab Canyon Pathway
+
 ### Georgia
   - [ ] http://www.mulberrygap.com/
   
