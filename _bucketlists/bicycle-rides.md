@@ -38,6 +38,9 @@ categories: bucketlist
 
 ### Georgia
   - [ ] http://www.mulberrygap.com/
+
+### Idaho
+  - [ ] Trail of the Coeur d'Alenes
   
 ### Illinois
   - [x] Palos Heights - up by Chicago
