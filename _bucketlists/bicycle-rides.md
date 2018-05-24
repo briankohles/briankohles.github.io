@@ -27,8 +27,6 @@ categories: bucketlist
     - [ ] Coler
   - [ ] Rogers, AR
     - jump park with path through a train car
-  - [ ] Southwest Trail
-    - [ ] Arkansas River Trail
 
 ### California
   - [ ] Cannell Trail
@@ -40,9 +38,6 @@ categories: bucketlist
 
 ### Georgia
   - [ ] http://www.mulberrygap.com/
-
-### Idaho
-  - [ ] Trail of the Coeur d'Alenes
   
 ### Illinois
   - [x] Palos Heights - up by Chicago
@@ -98,11 +93,23 @@ categories: bucketlist
 
 ## Rail Trails & Road Rides
 
+### Arkansas
+  - [ ] Southwest Trail
+    - [ ] Arkansas River Trail
+
+### Colorado
+  - [ ] Glenwood Canyon Recreation Trail
+
 ### Idaho
   - [x] Route of The Hiawatha - Avery, ID
+  - [ ] Trail of the Coeur d'Alenes
+
   
 ### Montana
   - [x] Going-to-the-Sun-Road - Glacier National Park, MT
+
+### Oregon
+- [ ] Banks-Vernonia State Trail
 
 
 
