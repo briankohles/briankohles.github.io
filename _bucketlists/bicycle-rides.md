@@ -27,6 +27,8 @@ categories: bucketlist
     - [ ] Coler
   - [ ] Rogers, AR
     - jump park with path through a train car
+  - [ ] Southwest Trail
+    - [ ] Arkansas River Trail
 
 ### California
   - [ ] Cannell Trail
