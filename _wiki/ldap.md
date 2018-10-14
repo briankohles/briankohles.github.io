@@ -11,7 +11,7 @@
 
 # What That Means
 
-Lightweight - It's slim, it's fast
+Lightweight - It's slim, it's fast, data transmission is very minimal.
 
 Directory - It's designed to store simple data as records, like a phone book.
 
@@ -21,7 +21,6 @@ Protocol - LDAP is an open standards Internet Protocol. It is not a specific pro
 
 ---
 
-
 # What is it typically used for?
 
 LDAP originated as a directory, a phone book for storing simple info. It is still used for this but has expanded to become a critical piece of Authentication and Authorization infrastructure for many applications and services.
@@ -30,20 +29,23 @@ LDAP originated as a directory, a phone book for storing simple info. It is stil
 
 # What Types of Data?
 
-LDAP can store virtually any type of data.
+LDAP can store virtually any type of data, including binary data like images.
 
 Most commonly:
   - users
-    - Name, e-mail, company Info
+    - Name, e-mail, company Info (department, manager, etc)
     - Password
   - group information
 
 ---
 
-# What does State Farm use it for?
+# What LDAP Isn't
 
-At State Farm we use LDAP in many places with an assortment of products.
+LDAP is not a relational database. You can not combine one record with another record.
 
-B2E LDAP - Preciously called your SFNet login.
+What this means is that data for each entry is stored with that entry. Information like Department Name or Manager name is stored individually on each entry, and is duplicated on every entry.
 
-Active Directory - Information about windows computers at State Farm, and login information 
+This means that having an effective Identity Provisioning system is critical as a manager with a name change will need to be updated on every record that mentions their name.
+
+---
+
