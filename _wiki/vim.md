@@ -210,3 +210,8 @@ To replay 7 times do <kbd>7</kbd>, <kbd>@</kbd>, <kbd>A</kbd>
 
 * Create fold from selection: <kbd>z</kbd>, <kbd>f</kbd>
 * Delete fold (does not delete text in fold): <kbd>z</kbd>, <kbd>d</kbd>
+
+### Shell Foo
+
+* Run the text from the current line in bash:
+  * `:.w !bash`
