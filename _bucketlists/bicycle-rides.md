@@ -47,6 +47,7 @@ categories: bucketlist
   - [ ] Black Partridge - Metamora, IL
   - [x] Independence Park - Washington, IL
   - [x] Wildlife Prairie Park - Peoria, IL
+  - [ ] Tunnel Hill State Trail - Shawnee Area
     
 ### Indiana
   - [ ] Fort Harrison State Park - Indianapolis
@@ -55,6 +56,7 @@ categories: bucketlist
   - [ ] Versailles State Park - Versailles, IN
   - [ ] Griffin Bike Park - Terra Haute IN
   - [ ] O’Bannon
+  - [ ] Cardinal Greenway - Muncie, IN
   
 ### Kentucky
   - [ ] Mega Cavern - Louisville, KY
@@ -104,12 +106,18 @@ categories: bucketlist
   - [x] Route of The Hiawatha - Avery, ID
   - [ ] Trail of the Coeur d'Alenes
 
+### Kansas
+  - [ ] Mill Creek Steamway Trail
+    - Near I-70 on th Eastern Border
   
 ### Montana
   - [x] Going-to-the-Sun-Road - Glacier National Park, MT
 
 ### Oregon
-- [ ] Banks-Vernonia State Trail
+  - [ ] Banks-Vernonia State Trail
+
+### Utah
+  - [ ] Provo River Trail
 
 
 
