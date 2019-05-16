@@ -1,0 +1,53 @@
+- [ ] Buy
+  - [ ] waterproof camera
+    - [ ] wrist strap
+    - [ ] SD card
+  - [ ] bug repelent
+  - [ ] Travel toothbrush
+- [ ] Carryon
+  - [ ] iphone
+  - [ ] iPad
+  - [ ] usb cables
+  - [ ] small surge protector
+  - [ ] headphones
+  - [ ] amex & BOA Visa (bring NO debit cards)
+- [ ] Camera
+  - [ ] New bag with Laptop pocket?
+  - [ ] Camera
+  - [ ] buy gorilla pod
+  - [ ] charge point & shoot
+  - [ ] GoPro
+    - [ ] Accessories
+- [ ] Laptop
+  - [ ] Lappy
+  - [ ] AC Adapter
+  - [ ] Load some movies for the flight
+  - [ ] Card Reader
+  - [ ] portable surge protector with 2 USB ports (2.1 amp)
+- [ ] Clothes
+  - [ ] rain jackets
+  - [ ] hats (with brim all around
+  - [ ] sandals
+  - [ ] Shorts
+  - [ ] Shirts
+  - [ ] Socks
+  - [ ] sandals
+  - [ ] hiking boots
+  - [ ] swim trunks
+  - [ ] hat
+  - [ ] Sun Screen
+  - [ ] rain jacket
+- [ ] Toiletries
+  - [ ] Excedrine
+  - [ ] Condoms
+  - [ ] Dramamine
+- [ ] Load some movies onto laptop.
+  - [ ] Work Photo ID
+  - [ ] Work Laptop
+  - [ ] Work Laptop Charger
+  - [ ] iPhone
+- [ ] Flashlights/head lamps
+- [ ] Camel back
+- [ ] Large towel/blanket for changing
+- [ ] Dry shower cloths
+- [ ] Garbage bags for wet clothes
