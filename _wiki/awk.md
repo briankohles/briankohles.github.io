@@ -67,3 +67,4 @@ awk -F',|, ' 'NR==FNR{a[$1]=$2} NR>FNR{$3=a[$3];print}' OFS=',' "country-list.cs
 	- other files will receive the replacement.
 
 ## use awk to read a list of CNs & then print out those entries from an LDIF file
+`awk 'NR==FNR{a[$1]=1;} {RS="\n\n"} NR>FNR{match($0, /([0-9]+)/, cn); if (a[cn[1]] != "") print $0."\n"}' find.list testBak.ldif`
