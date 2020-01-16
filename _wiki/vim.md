@@ -477,3 +477,7 @@ Open the files in vertical panes & then run command ˋ:diffthisˋ in each pane.
 ## Update Diff
 
 `:diffupdate`
+
+## highlight duplicate lines
+`:syn clear Repeat | g/^\(.*\)\n\ze\%(.*\n\)*\1$/exe 'syn match Repeat "^' . escape(getline('.'), '".\^$*[]') . '$"' | nohlsearch`
+From: https://stackoverflow.com/questions/1268032/how-can-i-mark-highlight-duplicate-lines-in-vi-editor
