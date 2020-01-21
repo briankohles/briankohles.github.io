@@ -1,3 +1,12 @@
+---
+title: ldap intro
+layout: page
+collection: wiki
+author: Brian Kohles
+tags: wiki ldap_intro
+categories: wiki
+---
+
 # LDAP
 
 ---
