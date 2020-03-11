@@ -56,3 +56,67 @@ Content-Type: application/xml
   <name>Bob</name>
 </user>
 DELETE	
+
+
+
+
+
+
+
+
+
+# REST Info
+## A good reason to use different methods is to keep URLs simple.
+## You can add new options to work with resources without adding URLs.
+HEAD [safe] [idempotent] - read
+GET [safe] [idempotent] - read
+POST - Create a new subordinate. Create & let server decide name (URI), update part of a resource
+	POST /questions/<new_question> -- Bad you can't perform a post to an item that does not exist. (use put instead)
+	POST /questions/ -- Create a new question
+	POST to a URL creates a child resource at a server defined URL.
+	POST /users -- create a new user in the "users" collection
+	POST /users/john -- create a new resource under the "john" collection
+		- NOT the proper way to UPDATE the john resource.
+PUT [idempotent] - Create (you choose the URI) new resource, update an entire resource.
+	PUT /questions/<new_question> - create new
+	PUT /questions/<existing_question> - overwrite existing
+	PUT /questions/ -- should error as no specific URI was mentioned
+	PUT to a URL creates/replaces the resource in its entirety at the client defined URL. 
+	PUT /users/john -- update/create the "john" resource.
+PATCH - Update part of a resource
+	PATCH to a URL updates part of the resource at that client defined URL.
+DELETE [idempotent] - Delete an entire resource
+OPTIONS [idempotent]
+
+The use of POST/PUT are constrained by the expected behavior of cache (web or user agent)
+
+POST is like posting a letter to a mailbox or posting an email to an email queue. PUT is like when you put an object in a cubby hole or a place on a shelf (it has a known address).
+
+- Should be coded as:
+	- Idempotent - Performing the same action multiple times will have no effect
+		- performing a create of a record & specifying the ID (URI)
+		- performing a delete on an specific item
+		- performing a create of a specific item with a put.
+		- A "revert to saved"
+		- x=5
+
+	- Not Idempotent - Perfoming the same action multiple times will have a different effect
+		- performing a create of a record & having the server choose a ID/URI
+		- performing a delete on "the last item created"
+		- doing a create with a post
+		- An "undo"
+		- x++
+
+If you perform a put on a resource & then a get on the same resource you should retrieve the same data you have put.
+
+If you do a post on a resource the new resource will be created at a different URI, so doing a get on the original resource will not return the new item. But after the post is successful the post return data should include a link to the created resource.
+
+
+http://stackoverflow.com/questions/630453/put-vs-post-in-rest?rq=1
+http://stackoverflow.com/questions/630453/put-vs-post-in-rest/18243587#18243587
+http://restcookbook.com/
+http://microformats.org/wiki/rest/urls
+http://www.restapitutorial.com/lessons/httpmethods.html
+http://www.restapitutorial.com/httpstatuscodes.html
+https://msdn.microsoft.com/en-us/library/azure/dd179357.aspx
+http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340
