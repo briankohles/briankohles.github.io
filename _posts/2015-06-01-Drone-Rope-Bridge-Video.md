@@ -5,5 +5,5 @@ date: 2015-06-01
 author: Brian Kohles
 tags: drone video
 categories: video
-youtubeid: dOed6Osrj4E
+youtubeid: CCDIuZUfETc
 ---
