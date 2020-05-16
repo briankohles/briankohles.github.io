@@ -21,6 +21,8 @@ categories: bucketlist
 - [x] San Diego Wild Animal Park - San Diego, CA
 - [x] St. Louis Zoo - St. Louis, MO
 - [X] Peoria Zoo - Peoria, IL
+- [x] Phoenix Zoo - Phoenix, AZ
+- [ ] Sandiego Zoo - San Diego, CA
 
 
 Look through List in photos
