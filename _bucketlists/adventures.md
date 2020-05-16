@@ -26,3 +26,5 @@ Wisconsin
 	* Mountain biking @ ski resorts in summer
 * Iowa
   * White water rafting & kayaking?
+* Kentucky
+  * [The Gorge Underground - The Coolest Place in the Gorge! Red River Gorge, Natural Bridge Kentucky](https://www.gorgeunderground.com/index.php#tours)
