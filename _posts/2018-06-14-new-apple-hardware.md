@@ -4,7 +4,7 @@ date: 2018-06-14
 author: Brian Kohles
 tags: Apple Mac Hardware
 categories: Apple
-layout:post
+layout: post
 ---
 
 There has been a lot of speculation lately about Apple releasing new Mac hardware that switches from an Intel processor to a ARM processor (like the A10x in the iPad Pro).
